@@ -1,0 +1,32 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+@import url('https://fonts.cdnfonts.com/css/forte');
+
+
+h1 {
+    font-family: 'Forte', sans-serif;
+    width: auto;
+    font-size: 90px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+}
+
+#botao1 {
+    position: fixed;
+    font-size: 50px;
+    margin-left: 20px;
+
+
+}
+
+#botao2 {
+    position: fixed;
+    font-size: 50px;
+    margin-left: 250px;
+}
